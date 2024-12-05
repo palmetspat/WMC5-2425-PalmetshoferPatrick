@@ -7,7 +7,7 @@
    | Task      | Duration| Progress (time or %) | Completed |
    |-----------|-----------|-----------|-----------|
    | [Codecademy - Introdcution to javaScript](https://www.codecademy.com/learn/introduction-to-javascript)|   15h       | 100 %        |<span style="color:green;">Yes</span>        |
-   | [freeCodeCamp - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)|   3h 27 min       | 0 % or "h min"       |yes/no       |
+   | [freeCodeCamp - Learn JavaScript - Full Course for Beginners](https://www.youtube.com/watch?v=PkZNo7MFNFg)|   3h 27 min       | 10%      |yes       |
 
 2. HTTP Networking - Work through the following topics
 
@@ -30,7 +30,7 @@
 
    | Task      | Duration| Progress (time or %) | Completed |
    |-----------|-----------|-----------|-----------|
-   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |    8h 17min      | 100 % or "h min"       |yes     |
+   | [Node.js and Express.js - Full Course](https://www.youtube.com/watch?app=desktop&v=Oe421EPjeBE) |    8h 17min      | 0 % or "h min"       |yes/no    |
 
 ## Optional Additional Sources
 
